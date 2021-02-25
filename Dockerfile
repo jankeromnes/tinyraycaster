@@ -1,4 +1,4 @@
-FROM gitpod/workspace-full-vnc
+FROM gitpod/workspace-full-vnc:branch-aledbf-base-image
 
 USER root
 # add your tools here
